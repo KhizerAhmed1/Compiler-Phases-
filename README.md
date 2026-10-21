@@ -247,19 +247,3 @@ The source-code analyzer works with a defined subset of C-like syntax, including
 Grammar utilities support production rules using arrows such as `->`, `-->`, and `=>`, with supported alternatives separated by `|`.
 
 **Important:** This is an educational compiler laboratory, not a complete standards-compliant C compiler. Some analysis modules use simplified rules, and supported syntax varies by operation. Optimization transformations are pattern-based and are not a substitute for a production compiler's full control-flow and data-flow analysis.
-
-## 📸 Screenshots
-
-Add screenshots of the actual running application to a `screenshots/` directory in your repository.
-
-Suggested screenshots:
-
-| Screenshot | What to show |
-|---|---|
-| Main Interface | Application window and operation sidebar |
-| Lexical Analysis | Token classification output |
-| Syntax Analysis | Syntax-checking results |
-| Semantic Analysis | Symbol table and semantic errors |
-| Intermediate Code | Generated Three-Address Code |
-| Code Optimization | Before-and-after transformations |
-| FIRST / FOLLOW | Calcul
