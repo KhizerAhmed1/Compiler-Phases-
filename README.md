@@ -1,5 +1,5 @@
-**# 🧩 Interactive Compiler Phase & Optimization Analyzer
-**
+## 🧩 Interactive Compiler Phase & Optimization Analyzer
+
 An interactive Python desktop application for learning, analyzing, and demonstrating core concepts of **Compiler Construction**. The application brings compiler phases, intermediate code generation, code optimization, grammar analysis, and parsing-related utilities into one graphical interface.
 
 Developed as a Compiler Construction Lab project by Computer Science students.
